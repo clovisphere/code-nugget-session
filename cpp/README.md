@@ -1,4 +1,4 @@
-##### Hello, World!
+### Hello, World!
 
 This week we looked at C++, and we tried to implement two interesting algorithms or projects: [fizz buzz](https://www.wikiwand.com/en/Fizz_buzz) and [factorial](https://www.wikiwand.com/en/Factorial). This won't turn you into a C++ wizard, but it will teach you basic C++, and it's a good way to get started.
 
