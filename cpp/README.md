@@ -1,5 +1,5 @@
 
-This week we looked at C++, and we tried to implement two interesting algorithms or project: [fizz buzz](https://www.wikiwand.com/en/Fizz_buzz) and [factorial](https://www.wikiwand.com/en/Factorial). This won't turn you into a C++ wizard, but it will teach basic C++ construct.
+This week we looked at C++, and we tried to implement two interesting algorithms or projects: [fizz buzz](https://www.wikiwand.com/en/Fizz_buzz) and [factorial](https://www.wikiwand.com/en/Factorial). This won't turn you into a C++ wizard, but it will teach basic C++ construct.
 
 Learning to code, and learning C++ is life long journey, below is list of articles, courses, books, blogs that will hellp you in this journey (I highly recommend that you go through them):
 
